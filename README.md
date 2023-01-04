@@ -1,4 +1,5 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=49AA00&width=435&lines=Hey+there!+My+name+is+Ethan;I'm+a+Fullstack+Software+Engineer)](https://git.io/typing-svg)
+
 
 <!--
 **ethangraham43/ethangraham43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
