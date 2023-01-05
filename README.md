@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=49AA00&width=435&lines=Hey+there!+My+name+is+Ethan;I'm+a+Fullstack+Software+Engineer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=49AA00&width=435&lines=Hey+there!+My+name+is+Ethan;I'm+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ### Programming Languages, Designing, and Development Tools
 
